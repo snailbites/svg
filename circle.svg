@@ -1,0 +1,47 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <title>Collage involving &lt;rect&gt; , &lt;circle&gt; and &lt;ellipse&gt; </title>
+
+    <circle 
+        cx="50%" cy="50%" r="25%" 
+        fill="none"
+        stroke="#e60"
+        stroke-width="25" />
+
+    <rect x="10%"
+          width="80%"
+          y="50%"
+          height="10%"
+          fill="#8ff"
+          stroke="black"
+          stroke-width="6" />
+          
+    <ellipse cx="50%" cy="50%" rx="10%" ry="40%" fill="yellow" fill-opacity=".45"
+        stroke="purple" stroke-width="15" />          
+
+<line x2="300" y2="100" stroke="green" stroke-width="10" stroke-linecap="round" />
+
+<!-- By Sam Herbert (@sherb), for everyone. More @ http://goo.gl/7AJzbL -->
+<svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(1 1)" stroke-width="2">
+            <circle stroke-opacity=".5" cx="18" cy="18" r="18"/>
+            <path d="M36 18c0-9.94-8.06-18-18-18">
+                <animateTransform
+                    attributeName="transform"
+                    type="rotate"
+                    from="0 18 18"
+                    to="360 18 18"
+                    dur="1s"
+                    repeatCount="indefinite"/>
+            </path>
+        </g>
+    </g>
+</svg>
+
+    <!--<path d="M 10 15 C 200 80 350 300 450 100" id="8"
+            stroke="black" fill="none" stroke-width="4"/>-->
+
+</svg>
