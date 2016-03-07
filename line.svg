@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<title>Line</title>
+
+    <line x2="300" y2="100" stroke="green" stroke-width="10" stroke-linecap="round" />
+
+</svg>
